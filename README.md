@@ -1,9 +1,9 @@
 ## Early stuff
 
-I did programming for the first time with Lego WeDo and Scratch when I was a K student. Here are some of my very early apps and models. 
+I did programming for the first time with Lego WeDo and Scratch when I was a K student. Here are some of my very early apps and models!!! 
 
-<a href="../images/2016-02-LegoWeDo-1.gif">
-<img src="../images/2016-02-LegoWeDo-1.jpg" width=400>
+<a href="images/2016-02-LegoWeDo-1.gif">
+<img src="images/2016-02-LegoWeDo-1.jpg" width=400>
 </a>
 
 
