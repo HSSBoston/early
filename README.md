@@ -1,10 +1,24 @@
 ## Early stuff
 
-I did programming for the first time with Lego WeDo and Scratch when I was a K student. Here are some of my very early apps and models!!! 
+I did programming for the first time with Lego WeDo and Scratch when I was a K student. Here are some of my very early apps and models!!! You can play a GIF animation by clicking each picture below. Its MP4 version is available too. 
 
 <a href="images/2016-02-LegoWeDo-1.gif">
 <img src="images/2016-02-LegoWeDo-1.jpg" width=400>
 </a>
+
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+
+| Time         | Length        | Speed              | Mass         |
+| ------------ | ------------- | ------------------ | ------------ |
+| -Millisecond | Millimetre    | Kilometre per hour | Milligram    |
+| Second       | Centimetre    | Foot per second    | Gram         |
+| Minute       | Inch          | Miles per hour     | Ounce        |
+
 
 
 - Scratch "games" I made when I was a K student: 
