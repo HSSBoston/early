@@ -8,9 +8,9 @@ I did programming for the first time with Lego WeDo and Scratch when I was a K s
 <img src="images/2016-02-LegoWeDo-1.jpg" width=300>
 </a>
 <a href="images/2016-02-LegoWeDo-2.gif">
-<img src="images/2016-02-LegoWeDo-2.jpg" width=300>
+<img src="images/2016-02-LegoWeDo-2.jpg" width=150>
 </a>
-<img src="images/2016-03-LegoWeDo-1.jpg" width=300>
+<img src="images/2016-03-LegoWeDo-1.jpg" width=150>
 <br>
 
 <a href="images/2016-03-LegoWeDo-2.gif">
