@@ -21,18 +21,22 @@ I did programming for the first time with Lego WeDo and Scratch when I was a K s
 <a href="images/2016-03-LegoWeDo-3.gif">
 <img src="images/2016-03-LegoWeDo-3.jpg" width=300>
 </a>
-<a href="images/2016-04-LegoWeDo.gif">
-<img src="images/2016-04-LegoWeDo.jpg" width=300>
+<a href="images/2016-04-LegoWedo.gif">
+<img src="images/2016-04-LegoWedo.jpg" width=300>
 </a>
 <br>
 
 - Scratch "games" 
 
-  <img src="scratch1.gif" width=400>
-  <img src="scratch2.gif" width=400>
 
- I made when I was a 1st grader: 
-
-  <img src="lego-wedo.gif" height=400>
-
+<a href="images/2016-04-scratch.gif">
+<img src="images/2016-04-scratch.jpg" width=150>
+</a>
+<a href="images/2016-05-scratch.gif">
+<img src="images/2016-05-scratch.jpg" width=300>
+</a>
+<a href="images/2016-06-scratch.gif">
+<img src="images/2016-06-scratch.jpg" width=300>
+</a>
+<br>
 
