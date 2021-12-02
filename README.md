@@ -22,7 +22,7 @@ I did programming for the first time with Lego WeDo and Scratch when I was a K s
 <img src="images/2016-03-LegoWeDo-3.jpg" width=300>
 </a>
 <a href="images/2016-04-LegoWedo.gif">
-<img src="images/2016-04-LegoWedo.jpg" width=300>
+<img src="images/2016-04-LegoWedo.jpg" width=250>
 </a>
 <br>
 
@@ -33,10 +33,10 @@ I did programming for the first time with Lego WeDo and Scratch when I was a K s
 <img src="images/2016-04-scratch.jpg" width=300>
 </a>
 <a href="images/2016-05-scratch.gif">
-<img src="images/2016-05-scratch.jpg" width=300>
+<img src="images/2016-05-scratch.jpg" width=250>
 </a>
 <a href="images/2016-06-scratch.gif">
-<img src="images/2016-06-scratch.jpg" width=300>
+<img src="images/2016-06-scratch.jpg" width=250>
 </a>
 <br>
 
